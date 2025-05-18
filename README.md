@@ -1,4 +1,4 @@
-# 🎬 Video Sync Room (MERN Stack Project)
+# 🎬 Syncvi (MERN Stack Project)
 
 A fullstack MERN application where users can sign up, create/join rooms, and synchronize video playback across all participants in real-time using Socket.io and Redux.
 
