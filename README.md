@@ -18,8 +18,8 @@ Upload your local videos and enjoy synchronized watching with friends!
 > The complete project includes a fully designed user interface and all styling, which I can demonstrate upon request.
 >
 > If you're interested in a full walkthrough or live demo, feel free to contact me:  
-> *Email:* your.email@example.com  
-> *LinkedIn:* [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) 
+> *Email:* lakharaabhinav@gmail.com 
+
 
 ## 🚀 Features
 
