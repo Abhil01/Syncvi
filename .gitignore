@@ -1,0 +1,6 @@
+node_modules
+.env
+*.css
+client/src/assets/
+client/.parcel-cache/
+client/dist/
