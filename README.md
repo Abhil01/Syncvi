@@ -4,10 +4,9 @@ A fullstack MERN application where users can sign up, create/join rooms, and syn
 
 Upload your local videos and enjoy synchronized watching with friends!  
 (Play, Pause, Seek, Reset — all actions are mirrored instantly.)
-## Screenshot attached below.
-## 🎥 Demo Video
-
-[Watch Demo on Google Drive](https://drive.google.com/your-video-link)
+ -> Screenshot attached below.
+# 🎥 Demo Video
+[Watch Demo on Google Drive](https://drive.google.com/file/d/10QYVwRHtzSl7uVwRDy24xrMmeytRy2sd/view?usp=drivesdk)
 ---
 ### 📌 Note to Recruiters
 
