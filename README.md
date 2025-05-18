@@ -45,6 +45,15 @@ Upload your local videos and enjoy synchronized watching with friends!
 
 ---
 
+![Screenshot 2025-05-19 001510](https://github.com/user-attachments/assets/b7aabf93-46fc-44e0-b63e-3a134a796002)
+
+![Screenshot 2025-05-19 001536](https://github.com/user-attachments/assets/cc36803b-f92f-408d-a1cf-e3cba909feea)
+
+![Screenshot 2025-05-19 001644](https://github.com/user-attachments/assets/122d29c6-4a78-4cff-85d7-62e97b4ab3a7)
+
+![Screenshot 2025-05-19 001605](https://github.com/user-attachments/assets/f03a621c-909c-4348-9542-df69da9eb0b7)
+
+![Screenshot 2025-05-19 001617](https://github.com/user-attachments/assets/a83b482d-d61c-4b11-8c91-f47ffcfe0708)
 
 
 
